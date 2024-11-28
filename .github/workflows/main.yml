@@ -17,7 +17,7 @@ jobs:
 
     - name: cd to path bot & install package
       run: |
-       cd bot
+       cd hitori
        npm i && npm i -g pm2
 
     - name: Install SSH & run all
