@@ -3,7 +3,7 @@ name: Git Clone, Unzip, Install, and Run
 on:
   push:
     branches:
-      - main  # Jalankan setiap ada push di branch 'main'
+      - main  # HJalankan setiap ada push di branch 'main'
 
 jobs:
   build:
